@@ -1,4 +1,4 @@
-package lesson1.demo4;
+package lesson1.demo4_incapsulation_getSet;
 
 public class User {
     int id;

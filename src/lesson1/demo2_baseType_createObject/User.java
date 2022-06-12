@@ -1,4 +1,4 @@
-package lesson1.demo2;
+package lesson1.demo2_baseType_createObject;
 
 public class User {
     int id;

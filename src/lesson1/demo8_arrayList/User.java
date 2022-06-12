@@ -1,4 +1,4 @@
-package lesson1.demo8;
+package lesson1.demo8_arrayList;
 
 import lombok.*;
 

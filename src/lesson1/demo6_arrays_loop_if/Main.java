@@ -1,4 +1,4 @@
-package lesson1.demo6;
+package lesson1.demo6_arrays_loop_if;
 
 public class Main {
     public static void main(String[] args) {

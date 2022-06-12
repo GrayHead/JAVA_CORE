@@ -1,8 +1,7 @@
-package lesson1.demo5;
+package lesson1.demo5_lombok;
 
 
 import lombok.*;
-import lombok.experimental.FieldDefaults;
 
 @AllArgsConstructor
 @NoArgsConstructor

@@ -1,4 +1,4 @@
-package lesson2.demo6_static.example1;
+package lesson2.demo6_static.example1_singleton;
 
 public class User {
     private static User instance;

@@ -1,4 +1,4 @@
-package lesson1.demo7;
+package lesson1.demo7_arrayInObject;
 
 public class Main {
     public static void main(String[] args) {
