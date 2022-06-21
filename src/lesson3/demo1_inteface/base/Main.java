@@ -1,4 +1,4 @@
-package lesson3.demo1_inteface;
+package lesson3.demo1_inteface.base;
 
 import java.util.ArrayList;
 

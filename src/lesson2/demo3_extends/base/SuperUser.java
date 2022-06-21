@@ -1,4 +1,4 @@
-package lesson2.demo3_extends;
+package lesson2.demo3_extends.base;
 
 public class SuperUser extends User {
     private String role;

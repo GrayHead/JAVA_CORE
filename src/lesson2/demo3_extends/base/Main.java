@@ -1,4 +1,4 @@
-package lesson2.demo3_extends;
+package lesson2.demo3_extends.base;
 
 import java.util.ArrayList;
 
