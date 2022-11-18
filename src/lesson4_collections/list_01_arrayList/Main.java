@@ -1,7 +1,6 @@
-package lesson4_collections.list_part01;
+package lesson4_collections.list_01_arrayList;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 public class Main {
     public static void main(String[] args) {
